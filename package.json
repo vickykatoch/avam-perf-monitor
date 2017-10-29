@@ -1,0 +1,26 @@
+{
+  "name": "avam-perf-monitor",
+  "version": "1.0.0",
+  "description": "Chrome Web App Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chrome-launcher": "^0.8.1",
+    "chrome-remote-interface": "^0.25.2",
+    "devtools-timeline-model": "^1.3.1",
+    "httpster": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickykatoch/avam-perf-monitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickykatoch/avam-perf-monitor/issues"
+  },
+  "homepage": "https://github.com/vickykatoch/avam-perf-monitor#readme"
+}
